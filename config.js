@@ -3,8 +3,8 @@ global.owner = JSON.parse(fs.readFileSync('./src/owner.json')) // Put your numbe
 global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some help?
 
 global.kontak = [
-['6281320170984', '𝘼𝙜𝙪𝙯 𝙁𝙖𝙢𝙞𝙡𝙞𝙖', true],
-['6285157436653', '𝙴𝙽𝙹𝙴𝙻𝙰-𝙱𝙾𝚃', true]
+['6281211006838', 'Klebitz', true],
+['6282145847957', 'KlebitzBOT', true]
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -39,11 +39,11 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = '𝑭𝒐𝒍𝒍𝒐𝒘'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.urlnya = "https://www.instagram.com/12345_zeez"
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62 812-1100-6838'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
